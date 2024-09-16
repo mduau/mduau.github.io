@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mduau.github.io/OGQ/sitemap.OGQ.gz
